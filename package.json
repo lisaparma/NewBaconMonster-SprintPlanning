@@ -5,7 +5,7 @@
   "homepage": "https://lisaparma.github.io/ScrambledEggs-SprintPlanning",
   "dependencies": {
     "awicons-react": "1.1.1",
-    "gh-pages": "2.0.1",
+    "gh-pages": "5.0.0",
     "html2canvas": "1.0.0-rc.7",
     "lodash": "4.17.19",
     "node-sass": "4.14.1",
